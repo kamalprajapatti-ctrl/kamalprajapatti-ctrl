@@ -1,4 +1,4 @@
-<div align="center">
+b<div align="center">
 
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F5C99,100:00C9FF&height=200&section=header&text=Kamal%20Prajapati&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20CSE%20%7C%20Aspiring%20Data%20Scientist%20%7C%20AI%2FML%20Learner&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
@@ -11,7 +11,6 @@
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kamal%20Prajapati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamal-prajapati01)
 [![GitHub](https://img.shields.io/badge/GitHub-kamalprajapatti--ctrl-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamalprajapatti-ctrl)
-[![Gmail](https://img.shields.io/badge/Gmail-kamal.prajapatti%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamal.prajapatti@gmail.com)
 [![Location](https://img.shields.io/badge/📍-New%20Delhi%2C%20India-FF6B35?style=for-the-badge)](https://github.com/kamalprajapatti-ctrl)
 
 </div>
