@@ -1,4 +1,4 @@
-b<div align="center">
+<div align="center">
 
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F5C99,100:00C9FF&height=200&section=header&text=Kamal%20Prajapati&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20CSE%20%7C%20Aspiring%20Data%20Scientist%20%7C%20AI%2FML%20Learner&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
@@ -10,8 +10,8 @@ b<div align="center">
 
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kamal%20Prajapati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamal-prajapati01)
-[![GitHub](https://img.shields.io/badge/GitHub-kamalprajapatti--ctrl-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamalprajapatti-ctrl)
-[![Location](https://img.shields.io/badge/📍-New%20Delhi%2C%20India-FF6B35?style=for-the-badge)](https://github.com/kamalprajapatti-ctrl)
+[![GitHub](https://img.shields.io/badge/GitHub-prajapati--kamal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prajapati-kamal)
+[![Location](https://img.shields.io/badge/📍-New%20Delhi%2C%20India-FF6B35?style=for-the-badge)](https://github.com/prajapati-kamal)
 
 </div>
 
@@ -43,10 +43,10 @@ kamal = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### Currently Learning 🔥
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Currently Learning 🔥
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -69,14 +69,14 @@ kamal = {
 - 📦 Store and manage product details & stock quantities
 - 🔄 Update and display available products in real-time
 - 🐍 Built using core Python: variables, loops, functions
-- 📁 **Repo:** [my-python-projects](https://github.com/kamalprajapatti-ctrl/my-python-projects)
+- 📁 **Repo:** [my-python-projects](https://github.com/prajapati-kamal/my-python-projects)
 
 ### 💻 Python Exercises
 > Collection of Python practice problems and solutions
 
 - 🧠 Solving algorithmic problems daily
 - 📚 Covers loops, functions, lists, dictionaries
-- 📁 **Repo:** [Python-Exercise-](https://github.com/kamalprajapatti-ctrl/Python-Exercise-)
+- 📁 **Repo:** [Python-Exercise-](https://github.com/prajapati-kamal/Python-Exercise-)
 
 ### 🔮 Coming Soon...
 - 📊 Exploratory Data Analysis (EDA) on Kaggle Dataset
@@ -89,10 +89,10 @@ kamal = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kamalprajapatti-ctrl&show_icons=true&theme=tokyonight&hide_border=true&title_color=00C9FF&icon_color=1F5C99&text_color=ffffff&bg_color=0d1117" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kamalprajapatti-ctrl&theme=tokyonight&hide_border=true&stroke=00C9FF&ring=1F5C99&fire=FF6B35&currStreakLabel=00C9FF&background=0d1117" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=prajapati-kamal&show_icons=true&theme=tokyonight&hide_border=true&title_color=00C9FF&icon_color=1F5C99&text_color=ffffff&bg_color=0d1117" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prajapati-kamal&theme=tokyonight&hide_border=true&stroke=00C9FF&ring=1F5C99&fire=FF6B35&currStreakLabel=00C9FF&background=0d1117" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamalprajapatti-ctrl&layout=compact&theme=tokyonight&hide_border=true&title_color=00C9FF&text_color=ffffff&bg_color=0d1117" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajapati-kamal&layout=compact&theme=tokyonight&hide_border=true&title_color=00C9FF&text_color=ffffff&bg_color=0d1117" width="40%" />
 
 </div>
 
@@ -127,7 +127,7 @@ kamal = {
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prajapatti-kamal-ctrl&bg_color=0d1117&color=00C9FF&line=1F5C99&point=FF6B35&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prajapati-kamal&bg_color=0d1117&color=00C9FF&line=1F5C99&point=FF6B35&area=true&hide_border=true" width="95%"/>
 </div>
 
 ---
@@ -140,7 +140,7 @@ kamal = {
 |----------|------|
 | 💼 LinkedIn | [linkedin.com/in/kamal-prajapati01](https://www.linkedin.com/in/kamal-prajapati01) |
 | 📧 Email | kamal.prajapatti@gmail.com |
-| 💻 GitHub | [github.com/kamalprajapatti-ctrl](https://github.com/kamalprajapatti-ctrl) |
+| 💻 GitHub | [github.com/prajapati-kamal](https://github.com/prajapati-kamal) |
 | 📍 Location | New Delhi, India |
 
 </div>
@@ -155,7 +155,7 @@ kamal = {
 <br/>
 
 <!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=kamalprajapatti-ctrl&color=1F5C99&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=prajapati-kamal&color=1F5C99&style=for-the-badge&label=PROFILE+VIEWS)
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:1F5C99&height=120&section=footer&animation=fadeIn" width="100%"/>
