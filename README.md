@@ -127,7 +127,7 @@ kamal = {
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamalprajapatti-ctrl&bg_color=0d1117&color=00C9FF&line=1F5C99&point=FF6B35&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prajapatti-kamal-ctrl&bg_color=0d1117&color=00C9FF&line=1F5C99&point=FF6B35&area=true&hide_border=true" width="95%"/>
 </div>
 
 ---
